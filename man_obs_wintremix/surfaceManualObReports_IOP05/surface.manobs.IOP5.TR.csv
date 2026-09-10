@@ -1,0 +1,54 @@
+Observer initials,Date & time (UTC),Primary p-type,Secondary p-type,Wet/melting p-type,Liquid-core IP,mPING report,Cloud type,Sky cover,Weather / p-type comments,Hydrometeor photos,Camera settings,Photo comments,Snow / ice measurements,Interval snow depth (mm),Interval SWE (mm),Snowboard interval (hr),Ice accretion caliper reading (mm),Radial ice accretion (mm),Ice accretion period (hr),Snow and ice comments
+MG,2/21/2022 12:00:00,None,None,No,No,no,,,,No,,,None,,,,21.0,0.0,,"-Ice accretion measured on copper rod with 21mm diameter oriented with 30deg. elevation angle (pointing ENE) 
+- For recorded ice accretion measurements on form, the observer "" subtracted the rod diameter and divided it by two already and we took the difference between the current and previous measurement""  (accurding to Margaux Girouard). For consistentcy with other reports, the lead ground obs scientist (Justin Minder) converted the values in the spreadsheet back to raw caliper readings."
+ÉC,2/22/2022 21:00:00,None,None,,,yes,As,8.0,-9°C wind NE 10-15KT No precip,No,,,None,,,,21.0,0.0,,- Start time of ice acretion measruments
+Mg,2/22/2022 21:20:00,None,None,No,No,yes,,8.0,,No,,,None,,,,21.0,0.0,,
+ÉC,2/22/2022 21:40:00,None,None,,No,yes,St,8.0,-9°C wind NE 15G20KT,No,,,None,,,,21.0,0.0,,
+ÉC,2/22/2022 21:50:00,None,None,,,no,St,8.0,-9°C NE 10KT No precip,No,,,None,,,,21.0,0.0,,
+ÉC,2/22/2022 22:00:00,FRDZ,PL,,,yes,Ns,8.0,-9°C Very light Freezing Drizzle with few ice pellets NE wind 10KT,No,,,None,,,,21.0,0.0,,
+ÉC,2/22/2022 22:10:00,PL,FRDZ,No,Uncertain,yes,Ns,8.0,-9°C Light ice pellets winds NE 5-10KT,No,,,None,,,,21.0,0.0,,
+ÉC,2/22/2022 22:20:00,PL,FZRA,No,No,yes,,,-9°C Light ice pellets light freezing rain NE wind 5-10KT,No,,,None,,,,21.0,0.0,,
+ÉC,2/22/2022 22:30:00,PL,FZRA,No,No,yes,,,-9°C Light to moderate ice pellets light freezing rain NE wind 5-10KT,Yes (macro DSLR),"Iso : 100, shutter speed : 1/5 and aperture : F22",Started photo collection - focus adjustments,None,,,,21.0,0.0,,
+ÉC,2/22/2022 22:40:00,PL,None,No,No,yes,,,-9°C Light to moderate ice pellets NE wind 10KT,Yes (macro DSLR),Same as previous photo,,None,,,,21.0,0.0,,
+ÉC,2/22/2022 22:50:00,PL,None,No,No,yes,,,-8°C Light to moderate ice pellets NE wind 5-10KT,Yes (macro DSLR),Same as previous photo,,None,,,,21.0,0.0,,
+ÉC,2/22/2022 23:00:00,PL,None,No,No,yes,,,-8°C light ice pellets wind NE 10-15KT,Yes (macro DSLR),,,None,,,,21.0,0.0,,
+ÉC,2/22/2022 23:10:00,PL,None,No,No,yes,,,-8°C Light ice pellets wind NE 15G20KT,Yes (macro DSLR),,,None,,,,21.0,0.0,,
+ÉC,2/22/2022 23:20:00,PL,None,No,No,yes,,,-8°C Light to moderate ice pellets wind NE 10 kt,Yes (macro DSLR),,,None,,,,21.0,0.0,,
+ÉC,2/22/2022 23:30:00,PL,None,No,No,yes,,,-8°C light ice pellets wind NE 10 KT,Yes (macro DSLR),Same as previous photo,,None,,,,21.0,0.0,,
+ÉC,2/22/2022 23:40:00,PL,None,No,No,yes,,,-8°C light ice pellets wind NE 10-15KT,Yes (macro DSLR),Same as previous photo,,None,,,,21.0,0.0,,
+MG,2/22/2022 23:50:00,PL,None,No,No,yes,,,-8°C light ice pellets wind NE 10-15KT,Yes (macro DSLR),Same as previous photo,,None,,,,21.0,0.0,,
+ÉC,2/23/2022 0:00:00,PL,None,No,No,yes,,,-8°C light to moderate ice pellets winds NE 10-15KT,Yes (macro DSLR),,,None,,,,21.0,0.0,,"Only a glaze of ice accretion, only ice pellets accumulating"
+ÉC,2/23/2022 0:10:00,PL,None,No,No,yes,,,-8°C light to moderate ice pellets NE wind 15KT,Yes (macro DSLR),Same as previous photo,,None,,,,21.0,0.0,,
+ÉC,2/23/2022 0:20:00,PL,None,Yes,No,yes,,,-8°C light to moderate ice pellets NE wind 10-15KT,Yes (macro DSLR),Same as previous photo,,None,,,,21.0,0.0,,
+MG,2/23/2022 0:30:00,PL,None,No,Uncertain,yes,,,,Yes (macro DSLR),,,None,,,,21.0,0.0,,
+ÉC,2/23/2022 0:40:00,PL,None,No,No,yes,,,-8°C light to moderate ice pellets NE wind 5-10KT,Yes (macro DSLR),Same as previous photo,,None,,,,21.0,0.0,,
+MG,2/23/2022 0:50:00,PL,None,No,No,yes,,,-8°C light to moderate ice pellets NE wind 5-10KT,Yes (macro DSLR),Same as previous photo,,None,,,,21.0,0.0,,
+ÉC,2/23/2022 1:00:00,PL,None,No,Yes,yes,,,-8°C light to moderate ice pellets very few liquid drops NE wind 10KT,Yes (macro DSLR),Same as previous photo,,None,,,,21.0,0.0,,
+MG,2/23/2022 1:10:00,PL,None,No,Yes,yes,,,,Yes (macro DSLR),,,None,,,,21.0,0.0,,
+ÉC,2/23/2022 1:20:00,PL,None,No,Yes,yes,,,-8°C light to moderate ice pellets NE wind 10KT,Yes (macro DSLR),Same as previous photo,,None,,,,21.0,0.0,,
+MG,2/23/2022 1:30:00,PL,None,No,Yes,yes,,,,Yes (macro DSLR),Same as previous photo,,None,,,,21.0,0.0,,
+ÉC,2/23/2022 1:40:00,PL,None,No,Yes,yes,,,-8°C Moderate Ice pellets winds NE 10-15KT,Yes (macro DSLR),Same as previous photo,,None,,,,21.0,0.0,,Only glaze ice accretion since beginning of IOP
+ÉC,2/23/2022 2:00:00,PL,None,No,Yes,yes,,,-8°C Moderate ice pellets NE wind 10-15KT,Yes (macro DSLR),Same as previous photo,,None,,,,21.0,0.0,,
+ÉC,2/23/2022 2:10:00,PL,None,No,Yes,yes,,,-8°C Moderate ice pellets winds NE wind 15-20KT,Yes (macro DSLR),Same as previous photo,,None,,,,21.0,0.0,,
+ÉC,2/23/2022 2:20:00,PL,None,No,No,yes,,,-8°C Moderate ice pellets NE wind 10-15KT,Yes (macro DSLR),Same as previous photo,,None,,,,21.0,0.0,,
+MG,2/23/2022 2:30:00,PL,None,No,Yes,yes,,,,Yes (macro DSLR),,,None,,,,21.0,0.0,,
+ÉC,2/23/2022 2:40:00,PL,None,No,Yes,yes,,,-8°C Moderate ice pellets NE wind 15-20KT,Yes (macro DSLR),Same as previous photo,,None,,,,21.0,0.0,,
+MG,2/23/2022 2:52:00,PL,None,No,Yes,yes,,,Moderate ice Pellet ,Yes (macro DSLR),,,None,,,,21.0,0.0,,
+ÉC,2/23/2022 3:00:00,PL,None,No,Yes,yes,,,-7°C Moderate to heavy ice pellets winds NE 10-15KT,Yes (macro DSLR),Same as previous photo,,None,,,,21.0,0.0,,Only a glaze of ice accretion since beginning of IOP
+MG,2/23/2022 3:10:00,PL,None,No,Yes,yes,,,-7°C Moderate to heavy ice pellets winds NE 10-15KT,Yes (macro DSLR),Same as previous photo,,None,,,,21.0,0.0,,Only a glaze of ice accretion since beginning of IOP
+ÉC,2/23/2022 3:20:00,PL,None,No,Yes,yes,,,-7°C Moderate ice pellets NE wind 10-15KT,Yes (macro DSLR),Same as previous photo,,None,,,,21.0,0.0,,
+MG,2/23/2022 3:30:00,PL,FZRA,Yes,Yes,yes,,,-7°C Moderate ice pellets and some freezing rain NE wind 10-15KT,Yes (macro DSLR),Same as previous photo,,None,,,,21.0,0.0,,
+ÉC,2/23/2022 3:40:00,PL,FZRA,Yes,Yes,yes,,,-6°C Moderate ice pellets/freezing rain NE wind 10-15KT,Yes (macro DSLR),Same as previous photo,,None,,,,21.0,0.0,,
+ÉC,2/23/2022 3:50:00,PL,FZRA,Yes,Yes,yes,,,"-6°C Light to moderate ice pellets with light freezing rain, NE wind 5-10KT",Yes (macro DSLR),Same as previous photo,,None,,,,21.0,0.0,,Some ice accretion starting
+ÉC,2/23/2022 4:00:00,PL,FZRA,Yes,Yes,yes,,,-5°C Light ice pellets light freezing rain NE wind 5 KT,Yes (macro DSLR),Same as previous photo,,None,,,,21.0,0.0,,
+ÉC,2/23/2022 4:10:00,PL,FZRA,Yes,Yes,yes,,,-5°C Very light ice pellets and freezing rain wind NE 5 KT,Yes (macro DSLR),Same as previous photo,,None,,,,21.0,0.0,,
+ÉC,2/23/2022 4:20:00,FZRA,PL,Yes,Yes,yes,,,-5°C Light freezing rain and ice pellets NNE wind 5 KT,No,,,None,,,,21.0,0.0,,
+ÉC,2/23/2022 4:30:00,FZRA,PL,Yes,Yes,yes,,,"-5°C Light freezing rain with few ice pellets, NNE wind 5 KT",No,,,Ice accretion only,,,,21.4,0.2,since start of IOP,Only a glaze of ice - since beginning of IOP
+MG,2/23/2022 4:40:00,FZRA,PL,Yes,Yes,yes,,,"Very few ice pellet and light FZRA, Winds NNE 5 kt",No,,,None,,,,21.4,0.2,,
+ÉC,2/23/2022 4:50:00,FZRA,None,No,,yes,,,-5°C Very light freezing rain winds NNE 5KT,No,,,None,,,,21.4,0.2,,
+MG,2/23/2022 5:00:00,FZDZ,None,No,,yes,,,-5°C Freezing drizzle winds NNE 5KT,No,,,None,,,,21.4,0.2,,
+ÉC,2/23/2022 5:10:00,FRDZ,None,No,,yes,,,"-5°C Freezing drizzle, NNE wind 0-5KT",No,,,Ice accretion only,,,,21.6,0.3,since start of IOP,
+ÉC,2/23/2022 5:30:00,FRDZ,None,No,,yes,,,-5°C Freezing drizzle N wind 5KT,No,,,None,,,,21.6,0.3,,
+ÉC,2/23/2022 5:40:00,FRDZ,None,No,,yes,,,-4°C Light freezing drizzle wind N 0-5 KT,No,,,Ice accretion only,,,,21.8,0.4,since start of IOP,Very last ice accretion overall at TR in this IOP
+MG,2/23/2022 5:20:00,FRDZ,None,No,,yes,,,"-5°C Freezing drizzle, NNE wind 0-5KT",No,,,Ice accretion only,,,,22.0,0.5,since start of IOP,
+MG,2/23/2022 5:30:00,FRDZ,None,No,,yes,,,"-5°C Freezing drizzle, NNE wind 0-5KT",No,,,Ice accretion only,,,,22.2,0.6,since start of IOP,

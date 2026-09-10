@@ -1,0 +1,27 @@
+Observer initials,Date & time (UTC),Primary p-type,Secondary p-type,Wet/melting p-type,Liquid-core IP,mPING report,Cloud type,Sky cover,Weather / p-type comments,Hydrometeor photos,Camera settings,Photo comments,Snow / ice measurements,Interval snow depth (mm),Interval SWE (mm),Snowboard interval (hr),Ice accretion caliper reading (mm),Radial ice accretion (mm),Ice accretion period (hr),Snow and ice comments
+BH,2/25/2022 9:10:00,None,None,,,yes,,,,No,,,None,,,,,,,
+BH,2/25/2022 9:20:00,SN,None,,,yes,,,,No,,,None,,,,,,,
+BH,2/25/2022 9:30:00,SN,None,,,yes,,,,No,,,None,,,,,,,
+BH,2/25/2022 9:40:00,SN,None,,,yes,,,,No,,set up the tent and photography equipment,None,,,,,,,
+SB,2/25/2022 10:00:00,SN,None,,,no,,8.0,,No,,try to connect to phone to the camera,None,,,,,,,Will be collected starting in 2 hours.
+SB,2/25/2022 10:10:00,SN,None,,,no,,8.0,,Yes (macro DSLR),"Shutter speed 1/4, F32, ISO320, smallest focus length (0.185)",,None,,,,,,,
+SB,2/25/2022 10:20:00,SN,None,,,no,,8.0,,Yes (macro DSLR),Same as previous photo,,None,,,,,,,
+SB,2/25/2022 10:30:00,SN,None,,,no,,8.0,,No,,,None,,,,,,,
+SB,2/25/2022 10:40:00,SN,None,,,yes,,8.0,,Yes (macro DSLR),Same as previous photo,,None,,,,,,,
+SB,2/25/2022 10:50:00,SN,None,,,no,,8.0,,Yes (macro DSLR),Same as previous photo,,None,,,,,,,
+MB,2/25/2022 11:00:00,SN,None,,,yes,,8.0,Light snow,No,,,None,,,,,,,
+MB,2/25/2022 11:10:00,SN,None,,,yes,,8.0,,No,,Camera won�t connect remotley,None,,,,,,,
+MB,2/25/2022 11:20:00,SN,None,,,no,,8.0,Grainy light snow,Yes (macro DSLR),Same as previous photo,bad focus,None,,,,,,,
+MB,2/25/2022 11:30:00,SN,None,,,no,,8.0,Snow growth seems a bit better now ,Yes (macro DSLR),Same as previous photo,bad focus,None,,,,,,,
+MB,2/25/2022 11:40:00,SN,None,,,no,,8.0,,No,,,None,,,,,,,
+BH,2/25/2022 12:10:00,SN,None,,,yes,,8.0,,No,,,Snow board only,28.0,2.5,3.0,,,,
+BH,2/25/2022 12:30:00,SN,None,,,no,,8.0,,Yes (macro DSLR),Same as previous photo,"cannot connect to the camera, use the shutter directly",None,,,,,,,
+BH,2/25/2022 12:40:00,SN,None,,,yes,,8.0,,No,,,None,,,,,,,
+BH,2/25/2022 13:00:00,SN,None,,,yes,,8.0,,Yes (macro DSLR),Same as previous photo,took several mins to change the battery,None,,,,,,,
+MB,2/25/2022 13:20:00,SN,None,,,yes,,8.0,Very heavy snow. Fresh snow growth,Yes (macro DSLR),,Beautiful plates a bunch of different kinds mostly dendrites,None,,,,,,,About 2� now 
+MB,2/25/2022 13:40:00,SN,None,,,yes,,8.0,Still heavy snow has maybe lightened up just a tad,Yes (macro DSLR),Same as previous photo,,None,,,,,,,Just measured on the street about 2.5� about 1� in the last hour. 
+SB,2/25/2022 14:00:00,SN,None,,,no,,8.0,,No,,,None,,,,,,,
+SB,2/25/2022 14:20:00,SN,None,,,no,,8.0,,Yes (macro DSLR),Same as previous photo,,None,,,,,,,
+SB,2/25/2022 14:40:00,SN,None,,,no,,8.0,,Yes (macro DSLR),Same as previous photo,,None,,,,,,,
+BH,2/25/2022 15:00:00,SN,None,,,yes,,8.0,,Yes (macro DSLR),Same as previous photo,,Snow board only,51.0,6.0,3.0,,,,
+BH,2/25/2022 15:30:00,SN,None,,,yes,,8.0,,Yes (macro DSLR),Same as previous photo,,None,,,,,,,

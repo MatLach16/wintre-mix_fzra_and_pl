@@ -1,0 +1,23 @@
+Observer initials,Date & time (UTC),Primary p-type,Secondary p-type,Wet/melting p-type,Liquid-core IP,mPING report,Cloud type,Sky cover,Weather / p-type comments,Hydrometeor photos,Camera settings,Photo comments,Snow / ice measurements,Interval snow depth (mm),Interval SWE (mm),Snowboard interval (hr),Ice accretion caliper reading (mm),Radial ice accretion (mm),Ice accretion period (hr),Snow and ice comments
+HT,2022-03-06 13:40:00,FZRA,None,,,yes,Ns,8.0,,No,,,None,,,,,,,
+JT,2022-03-06 13:50:00,FZRA,None,No,No,no,,8.0,,No,,,None,,,,,,,
+JT,2022-03-06 14:04:00,FZRA,None,No,No,no,,8.0,,No,,,None,,,,,,,ice accretion occuring on structures
+JT,2022-03-06 14:12:00,FZRA,None,No,No,no,,8.0,,No,,,None,,,,,,,
+JT,2022-03-06 14:20:00,FZRA,None,No,No,no,,8.0,Pcpn intensity increased since last obs,No,,,None,,,,,,,Ice accreation on Hadleigh's car
+JT,2022-03-06 14:32:00,FZRA,None,No,No,no,,8.0,,No,,,None,,,,,,,
+Jt,2022-03-06 14:45:00,FZRA,None,No,No,no,,,,No,,,None,,,,,,,
+JT,2022-03-06 14:50:00,FZRA,None,No,No,no,,8.0,,No,,,None,,,,,,,
+JT,2022-03-06 15:00:00,FZRA,None,No,No,no,,8.0,,No,,,None,,,,,,,
+Jt,2022-03-06 15:10:00,FZRA,None,No,No,no,,8.0,,No,,,None,,,,,,,
+JT,2022-03-06 15:20:00,FZRA,None,No,No,no,,,Very light pcpn,No,,,None,,,,,,,
+JT,2022-03-06 15:30:00,FZRA,None,No,No,no,,,Intensity increased,No,,,None,,,,,,,Ice detector has been working well
+JT,2022-03-06 15:42:00,FZRA,None,No,No,no,,,,No,,,None,,,,,,,
+JT,2022-03-06 15:50:00,FZRA,None,No,No,no,,,,No,,,None,,,,,,,Ice detector was working.
+JT,2022-03-06 16:00:00,FZRA,None,No,No,no,,,Light rain,No,,,None,,,,,,,
+Jt,2022-03-06 16:12:00,FZRA,None,No,No,no,,,,No,,,None,,,,,,,
+Jt,2022-03-06 16:17:00,FZRA,None,No,No,no,,,Freezing rain started again,No,,,None,,,,,,,
+Jt,2022-03-06 16:35:00,FRDZ,None,No,No,no,,8.0,,No,,,None,,,,,,,
+Jt,2022-03-06 16:40:00,FRDZ,None,No,No,no,,,,No,,,None,,,,,,,
+Jt,2022-03-06 16:53:00,FZRA,None,No,No,no,,,,No,,,None,,,,,,,
+Jt,2022-03-06 17:00:00,FZRA,None,Uncertain,No,no,,,,No,,,None,,,,,,,
+Jt,2022-03-06 17:18:00,FRDZ,None,No,No,no,,,,No,,,None,,,,,,,

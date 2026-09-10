@@ -1,0 +1,11 @@
+Observer initials,Date & time (UTC),Primary p-type,Secondary p-type,Wet/melting p-type,Liquid-core IP,mPING report,Cloud type,Sky cover,Weather / p-type comments,Hydrometeor photos,Camera settings,Photo comments,Snow / ice measurements,Interval snow depth (mm),Interval SWE (mm),Snowboard interval (hr),Ice accretion caliper reading (mm),Radial ice accretion (mm),Ice accretion period (hr),Snow and ice comments
+RAE,2/12/2022 1:20:00,None,None,,,yes,,,It was too dark to determine cloud type and coverage.,No,,,None,,,,,,,
+RAE,2/12/2022 2:00:00,None,None,,,yes,,,Too dark ,No,,,None,,,,,,,
+SAL,2/12/2022 2:30:00,None,None,,,no,,,It’s too dark to see clouds,No,,,None,,,,,,,
+BH,2/12/2022 2:40:00,None,None,,,no,,,,No,,,None,,,,,,,
+JE,2/12/2022 3:00:00,None,None,,,yes,,,,No,,,None,,,,,,,
+SAL,2/12/2022 3:30:00,None,None,,,no,,,Too dark,No,,,None,,,,,,,
+SAL,2/12/2022 4:00:00,None,None,,,no,,,,No,,,None,,,,,,,
+JE,2/12/2022 4:30:00,None,None,,,no,,,,No,,,None,,,,,,,
+BH,2/12/2022 4:40:00,None,None,,,no,,,,No,,,None,,,,,,,
+BH,2/12/2022 5:00:00,None,None,,,no,,,,No,,,None,,,,,,,

@@ -1,0 +1,22 @@
+Observer initials,Date & time (UTC),Primary p-type,Secondary p-type,Wet/melting p-type,Liquid-core IP,mPING report,Cloud type,Sky cover,Weather / p-type comments,Hydrometeor photos,Camera settings,Photo comments,Snow / ice measurements,Interval snow depth (mm),Interval SWE (mm),Snowboard interval (hr),Ice accretion caliper reading (mm),Radial ice accretion (mm),Ice accretion period (hr),Snow and ice comments
+JW,2/10/2022 10:10:00,None,None,,,no,Cs,5,,No,,,None,0,0,0.0,0.0,0.0,,
+JW,2/10/2022 10:20:00,None,None,,,yes,Cs,5,,No,,,None,0,0,0.0,0.0,0.0,,
+JW,2/10/2022 10:30:00,None,None,,,yes,Cs,5,,No,,,None,0,0,0.0,0.0,0.0,,
+JW,2/10/2022 10:40:00,None,None,,,yes,Cs,5,,No,,,None,0,0,0.0,0.0,0.0,,
+JW,2/10/2022 10:50:00,None,None,,,yes,Cs,5,,No,,,None,0,0,0.0,0.0,0.0,,
+JW,2/10/2022 11:00:00,None,None,,,yes,Cs,5,,No,,,None,0,0,0.0,0.0,0.0,,
+JW,2/10/2022 11:10:00,None,None,,,yes,Cs,5,,No,,,None,0,0,0.0,0.0,0.0,,
+JW,2/10/2022 11:20:00,None,None,,,yes,Cs,5,,No,,,None,0,0,0.0,0.0,0.0,From start of IOP operations,
+JW,2/10/2022 11:30:00,None,None,,,yes,As,7,,No,,,None,0,0,0.0,0.0,0.0,,
+JW,2/10/2022 11:40:00,None,None,,,yes,As,6,,No,,,None,0,0,0.0,0.0,0.0,,
+JW,2/10/2022 11:50:00,None,None,,,yes,As,8,,No,,,None,0,0,0.0,0.0,0.0,,
+JW,2/10/2022 12:00:00,None,None,,,no,As,8,,No,,,None,0,0,0.0,0.0,0.0,,
+HC,2/10/2022 12:10:00,None,None,,,yes,Sc,8,,No,,,None,0,0,0.0,0.0,0.0,From start of IOP operations,
+HC,2/10/2022 12:20:00,None,None,,,yes,Sc,8,,No,,,Snow board only,0,0,0.0,0.0,0.0,From start of IOP operations,No precip. since beginning of IOP operations.
+HC,2/10/2022 12:30:00,None,None,,,yes,Sc,7,,No,,,Snow board only,0,0,0.0,0.0,0.0,From start of IOP operations,No precip. since beginning of IOP.
+HC,2/10/2022 12:40:00,None,None,,,yes,Sc,7,,No,,,Snow board only,0,0,0.0,0.0,0.0,From start of IOP operations,No precip. since start of IOP.
+HC,2/10/2022 12:50:00,None,None,,,yes,Sc,7,,No,,,Snow board only,0,0,0.0,0.0,0.0,From start of IOP operations,No precip. since beginning of IOP.
+HC,2/10/2022 13:00:00,None,None,,,yes,Sc,7,,No,,,Snow board only,0,0,0.0,0.0,0.0,From start of IOP operations,No precip. since the beginning of IOP.
+HC,2/10/2022 13:10:00,None,None,,,yes,Sc,7,,No,,,Snow board only,0,0,0.0,0.0,0.0,From start of IOP operations,No precip. since the last IOP.
+HC,2/10/2022 13:20:00,None,None,,,yes,Sc,7,,No,,,Snow board only,0,0,0.0,0.0,0.0,From start of IOP operations,No precip. since beginning of IOP.
+HC,2/10/2022 13:30:00,None,None,,,yes,Sc,7,,No,,,Snow board only,0,0,0.0,0.0,0.0,From start of IOP operations,No precip. since beginning of IOP.

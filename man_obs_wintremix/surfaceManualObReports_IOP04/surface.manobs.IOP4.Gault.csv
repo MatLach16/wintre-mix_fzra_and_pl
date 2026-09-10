@@ -1,0 +1,62 @@
+Observer initials,Date & time (UTC),Primary p-type,Secondary p-type,Wet/melting p-type,Liquid-core IP,mPING report,Cloud type,Sky cover,Weather / p-type comments,Hydrometeor photos,Camera settings,Photo comments,Snow / ice measurements,Interval snow depth (mm),Interval SWE (mm),Snowboard interval (hr),Ice accretion caliper reading (mm),Radial ice accretion (mm),Ice accretion period (hr),Snow and ice comments
+KV,2/17/2022 23:00:00,RA,None,,,yes,Ns,8,,No,,,None,,,,,,,"[BH: the original ice accretion caliper readinng column is the recording that subtracted the rod thickness but was not divided by 2. It has been converted to the full thickness (i.e., includes the rod diameter) after field campaign to be the same as the other forms]"
+KV,2/17/2022 23:10:00,RA,None,,,yes,Ns,8,,No,,,None,,,,,,,
+KV,2/17/2022 23:20:00,RA,None,,,yes,Ns,8,,No,,,None,,,,,,,
+KV,2/17/2022 23:30:00,RA,None,,,yes,Ns,8,,No,,,None,,,,,,,
+KV,2/17/2022 23:40:00,RA,None,,,yes,Ns,8,,No,,,None,,,,,,,
+KV,2/17/2022 23:50:00,RA,None,,,yes,Ns,8,,No,,,None,,,,,,,
+KV,2/18/2022 0:00:00,RA,None,,,yes,Ns,8,,No,,,None,,,,,,,
+KV,2/18/2022 0:10:00,RA,None,,,yes,Ns,8,,No,,,None,,,,,,,
+KV,2/18/2022 0:20:00,RA,None,,,yes,Ns,8,,No,,,None,,,,,,,
+KV,2/18/2022 0:30:00,RA,None,,,yes,Ns,8,,No,,,None,,,,,,,
+KV,2/18/2022 0:40:00,RA,None,,,yes,Ns,8,,No,,,None,,,,,,,
+KV,2/18/2022 0:50:00,RA,None,,,yes,Ns,8,,No,,,None,,,,,,,
+KV,2/18/2022 1:00:00,RA,None,,,yes,Ns,8,,No,,,None,,,,,,,
+KV,2/18/2022 1:10:00,RA,None,,,yes,Ns,8,Very close to transition. Feels like there's some snowflakes.,No,,,None,,,,,,,
+D.F.,2/18/2022 1:20:00,RA,None,,,yes,Ns,8,Very close to transition,No,Same as previous photo,,None,0.0,0.0,1.0,50.8,0.0,From start of IOP operations,"[BH: the original ice accretion caliper readinng column is the recording that subtracted the rod thickness but was not divided by 2. It has been converted to the full thickness (i.e., includes the rod diameter) after field campaign to be the same as the other forms]"
+D.F.,2/18/2022 1:30:00,RA,None,,,yes,Ns,8,Very close to transition,No,Same as previous photo,,None,0.0,0.0,1.0,50.8,0.0,From start of IOP operations,
+KV,2/18/2022 1:40:00,RA,None,,,yes,Ns,8,Very close to transition,No,Same as previous photo,,None,,,,,,,
+KV,2/18/2022 1:50:00,RA,None,,,yes,Ns,8,Very close to transition,No,Same as previous photo,,None,,,,,,,
+KV,2/18/2022 2:00:00,FZRA,None,,,yes,Ns,8,Very close to transition,No,Same as previous photo,,None,,,,,,,Starting to ice up. Just a trace.
+JW,2/18/2022 2:10:00,FZRA,None,,,yes,Ns,8,,No,Same as previous photo,,None,,,,52.8,1.0,,Starting to ice up. Just a trace.
+D.F.,2/18/2022 2:20:00,FZRA,None,,,yes,Ns,8,,No,Same as previous photo,,Ice,0.0,0.0,1.0,52.8,1.0,From start of IOP operations,Starting to ice up
+JW,2/18/2022 2:30:00,FZRA,None,,,yes,Ns,8,,No,Same as previous photo,,Ice,0.0,0.0,1.0,52.8,1.0,From start of IOP operations,Starting to ice up
+KV,2/18/2022 2:40:00,PL,None,No,Uncertain,yes,Ns,8,Tiny IP (<=1mm),Yes (macro DSLR),Same as previous photo,,Ice,,,,53.8,1.5,,
+KV,2/18/2022 2:50:00,PL,None,No,Uncertain,yes,Ns,8,Tiny IP (<=1mm),Yes (macro DSLR),Same as previous photo,,Ice,,,,53.8,1.5,,
+KV,2/18/2022 3:00:00,PL,None,No,Uncertain,yes,Ns,8,Tiny IP (<=1mm),Yes (macro DSLR),Same as previous photo,,Ice,,,,53.8,1.5,,
+KV,2/18/2022 3:10:00,PL,None,No,Uncertain,yes,Ns,8,Tiny IP (<=1mm),Yes (macro DSLR),Same as previous photo,,Ice,,,,53.8,1.5,,
+KV,2/18/2022 3:20:00,PL,None,No,Uncertain,yes,Ns,8,Tiny IP (<=1mm),Yes (macro DSLR),Same as previous photo,,Ice,,,,,,,
+KV,2/18/2022 3:30:00,PL,None,No,Uncertain,yes,Ns,8,Tiny IP (<=1mm),Yes (macro DSLR),Same as previous photo,,Ice,,,,,,,
+JW,2/18/2022 3:40:00,PL,None,No,Uncertain,yes,Ns,8,Tiny IP (<=1mm),Yes (macro DSLR),Same as previous photo,,Ice,,,,,,,
+JW,2/18/2022 3:50:00,PL,None,No,Uncertain,yes,Ns,8,Tiny IP (<=1mm),Yes (macro DSLR),Same as previous photo,,Ice,,,,,,,
+JW,2/18/2022 4:00:00,PL,None,No,Uncertain,yes,Ns,8,Tiny IP (<=1mm),Yes (macro DSLR),Same as previous photo,,Ice,,,,,,,
+KV,2/18/2022 4:10:00,PL,None,No,Uncertain,yes,Ns,8,Tiny IP (<=1mm),Yes (macro DSLR),Same as previous photo,,None,,,,,,,4-5 mm of ice pellet accumulation.
+KV,2/18/2022 4:20:00,PL,None,No,Uncertain,yes,Ns,8,Tiny IP (<=1mm),Yes (macro DSLR),Same as previous photo,,None,,,,,,,
+KV,2/18/2022 4:30:00,PL,None,No,No,yes,Ns,8,Tiny IP (<=1mm),Yes (macro DSLR),Same as previous photo,,None,,,,,,,
+KV,2/18/2022 4:40:00,PL,None,No,No,yes,Ns,8,Tiny IP (<=1mm),Yes (macro DSLR),Same as previous photo,,None,,,,,,,
+KV,2/18/2022 4:50:00,PL,None,No,No,yes,Ns,8,Tiny IP (<=1mm),Yes (macro DSLR),Same as previous photo,,None,,,,,,,
+KV,2/18/2022 5:00:00,PL,None,No,No,yes,Ns,8,Tiny IP (<=1mm),Yes (macro DSLR),Same as previous photo,,None,,,,,,,
+CJ,2/18/2022 5:10:00,PL,None,No,No,yes,Ns,8,Tiny IP (<=1mm),Yes (macro DSLR),Same as previous photo,,None,,,,,,,
+CJ,2/18/2022 5:20:00,PL,None,No,No,yes,Ns,8,Tiny IP (<=1mm),Yes (macro DSLR),Same as previous photo,,None,,,,,,,
+KV,2/18/2022 5:30:00,PL,None,No,No,yes,Ns,8,Tiny IP (<=1mm),Yes (macro DSLR),Same as previous photo,,Snow board only,10.0,5.5,,,,,10 mm of Ice pellets
+D.F.,2/18/2022 5:40:00,PL,None,No,No,yes,Ns,8,Tiny IP (<=1mm),Yes (macro DSLR),Same as previous photo,,None,,,,,,,
+D.F.,2/18/2022 5:50:00,PL,None,No,No,yes,Ns,8,Tiny IP (<=1mm),Yes (macro DSLR),Same as previous photo,,None,,,,,,,
+D.F.,2/18/2022 6:00:00,PL,None,No,No,yes,Ns,8,Tiny IP (<=1mm),Yes (macro DSLR),Same as previous photo,,None,,,,,,,
+D.F.,2/18/2022 6:10:00,PL,None,No,No,yes,Ns,8,Tiny IP (<=1mm),Yes (macro DSLR),Same as previous photo,,None,,,,,,,
+KV,2/18/2022 6:20:00,PL,None,No,No,yes,Ns,8,Tiny IP (<=1mm),Yes (macro DSLR),Same as previous photo,,None,,,,,,,
+D.F.,2/18/2022 6:30:00,PL,None,No,No,yes,Ns,8,Tiny IP (<=1mm),Yes (macro DSLR),Same as previous photo,,Snow board only,10.0,5.5,1.0,,,,
+D.F.,2/18/2022 6:40:00,PL,None,No,No,yes,Ns,8,Tiny IP (<=1mm),Yes (macro DSLR),Same as previous photo,,None,,,,,,,
+KV,2/18/2022 6:50:00,PL,None,No,No,yes,Ns,8,Tiny IP (<=1mm),Yes (macro DSLR),Same as previous photo,,None,,,,,,,
+KV,2/18/2022 7:00:00,PL,None,No,No,yes,Ns,8,Tiny IP (<=1mm),Yes (macro DSLR),Same as previous photo,,None,,,,,,,
+KV,2/18/2022 7:10:00,PL,None,No,No,yes,Ns,8,Mostly IP and agg of IP mixed with snow (Some Dendrite),Yes (macro DSLR),Same as previous photo,,None,,,,,,,
+D.F.,2/18/2022 7:20:00,PL,SN,No,No,yes,Ns,8,Mixed ice pellets and snow - about half and half,Yes (macro DSLR),Same as previous photo,,None,,,,,,,
+D.F.,2/18/2022 7:30:00,PL,SN,No,No,yes,Ns,8,Mostly IP and agg of IP mixed with snow (Some Dendrite),Yes (macro DSLR),ISO-A changed from auto to off (100),,Snow board only,12.0,8.5,1.0,,,From start of IOP operations,Total ice pellets so far ~1.2 cm. Storm-total FZRA from earlier around 3 mm.
+KV,2/18/2022 7:40:00,PL,SN,No,No,yes,Ns,8,Mostly IP and agg of IP mixed with snow (Some Dendrite),Yes (macro DSLR),Same as previous photo,,None,,,,,,,
+KV,2/18/2022 7:50:00,PL,SN,No,No,yes,Ns,8,Mostly IP and agg of IP mixed with snow (Some Dendrite),Yes (macro DSLR),Same as previous photo,,None,,,,,,,
+KV,2/18/2022 8:00:00,PL,SN,No,No,yes,Ns,8,Mostly IP and agg of IP mixed with snow (Some Dendrite),Yes (macro DSLR),Same as previous photo,,None,,,,,,,
+KV,2/18/2022 8:10:00,SN,None,No,,yes,Ns,8,Transitioned to snow.,Yes (macro DSLR),Same as previous photo,,None,,,,,,,
+KV,2/18/2022 8:20:00,SN,GS,,,yes,Ns,8,Irregular with Graupel,Yes (macro DSLR),Same as previous photo,,None,,,,,,,
+KV,2/18/2022 8:30:00,SN,GS,,,yes,,8,Heavily rimed dendrites and Graupel,Yes (macro DSLR),Same as previous photo,,Snow board only,13.0,8.5,,,,,Accidental tilting of the snow board result in a reading lower than expected
+KV,2/18/2022 8:40:00,SN,None,,,yes,Ns,8,,Yes (macro DSLR),Same as previous photo,,None,,,,,,,
+KV,2/18/2022 8:50:00,SN,None,,,yes,Ns,8,"lots of Needles and Dendrites, some agreggates.",Yes (macro DSLR),Same as previous photo,,None,,,,,,,
+KV,2/18/2022 9:00:00,SN,None,,,yes,Ns,8,"needles, rimed irregulars, some dendrite.",Yes (macro DSLR),Same as previous photo,,None,,,,,,,"Totals up until 4 am: Snow - 2-2.5 cm, Ice pellets, 1.3 cm, FZRA, 0.3 mm. +SN right now as we head out!"
